@@ -1,0 +1,6 @@
+// Logo Vale Music Lavras - SVG extraído do anexo
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 192" fill="none">
+  <circle cx="95.5" cy="96" r="91.5" stroke="white" stroke-width="8"/>
+  <path d="M41 151L95.5 41L150 151" stroke="white" stroke-width="8"/>
+  <path d="M41 151H150" stroke="white" stroke-width="8"/>
+</svg>

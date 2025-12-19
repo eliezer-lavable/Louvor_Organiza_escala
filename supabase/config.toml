@@ -1,0 +1,7 @@
+project_id = "gfhnsaorbgjyllszbncb"
+
+[functions.create-member-user]
+verify_jwt = true
+
+[functions.cleanup-old-schedules]
+verify_jwt = false
